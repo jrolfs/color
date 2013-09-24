@@ -1,0 +1,25 @@
+{
+  "name": "color",
+  "main": "color.js",
+  "version": "0.4.4",
+  "homepage": "https://github.com/harthur/color",
+  "description": "Color conversion and manipulation with CSS string support",
+  "keywords": [
+    "color",
+    "colour",
+    "css"
+  ],
+  "authors": [
+    "Heather Arthur <fayearthur@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "Jakefile.js"
+  ]
+}
