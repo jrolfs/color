@@ -24,6 +24,7 @@
     "test",
     "tests",
     "package.json",
-    "Jakefile.js"
+    "Jakefile.js",
+    "browser.js"
   ]
 }
