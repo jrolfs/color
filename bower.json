@@ -4,6 +4,10 @@
   "version": "0.4.4",
   "homepage": "https://github.com/harthur/color",
   "description": "Color conversion and manipulation with CSS string support",
+  "dependencies": {
+      "color-convert": "https://github.com/jrolfs/color-convert.git#bower",
+      "color-string": "https://github.com/jrolfs/color-string.git#bower"
+  },
   "keywords": [
     "color",
     "colour",
